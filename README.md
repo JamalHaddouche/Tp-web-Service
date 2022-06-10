@@ -25,3 +25,13 @@ on remarque que lorsque on envoi le montant et en envoi la requet vers le web se
  resultat de test 
  
  ![c6](https://user-images.githubusercontent.com/82270887/163591134-5bd05bda-2c48-4715-957a-f2b055d2520f.png)
+ 
+ ## creation d'un client soap dot net
+ code c#
+ ![c#](https://user-images.githubusercontent.com/82270887/173163741-c72e4223-78a0-4a00-be70-13dd866660ac.png)
+ 
+ résultat obtenus :
+ 
+ ![cmd](https://user-images.githubusercontent.com/82270887/173163763-a06b3cae-f25c-46d3-81ed-a83834824aa3.png)
+
+
